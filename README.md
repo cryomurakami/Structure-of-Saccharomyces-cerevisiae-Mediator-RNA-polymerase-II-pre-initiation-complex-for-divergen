@@ -1,6 +1,6 @@
-# Structure-of-Saccharomyces-cerevisiae-Mediator-RNA-polymerase-II-pre-initiation-complex-for-divergen
-Structure of Saccharomyces cerevisiae Mediator-RNA polymerase II pre-initiation complex for divergent transcription
-README: Integrative Modeling for the Mediator Tail Module Dimer bound to UAS DNA and Activator
+# Structure-of-Saccharomyces-cerevisiae-Mediator-RNA-polymerase-II-pre-initiation-complex-for-divergent-transcription
+
+Integrative Modeling for the Mediator Tail Module Dimer bound to UAS DNA and Activator
 
 In this GitHub repository folder you will find two main directories:
 -	modeling
