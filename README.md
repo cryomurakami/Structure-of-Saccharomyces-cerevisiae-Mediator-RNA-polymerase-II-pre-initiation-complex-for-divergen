@@ -34,3 +34,5 @@ if you have any questions, please contact Jose Gorbea or Kenji Murakami at:
 Best regards,
 
 Jose
+
+[![DOI](https://zenodo.org/badge/469828712.svg)](https://zenodo.org/badge/latestdoi/469828712)
